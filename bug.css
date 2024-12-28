@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected behavior when styles from different selectors conflict.  For example, a more specific selector might override a less specific one, even if it's not what you intended.  Another problem can be the cascade order which can be difficult to predict, especially when multiple stylesheets are involved.
