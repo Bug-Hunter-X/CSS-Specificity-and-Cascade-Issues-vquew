@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in CSS: unexpected styling due to specificity and cascading order. The `bug.css` file shows the problematic code, while `bugSolution.css` provides a corrected version with explanations. The issue arises from conflicting styles and the unpredictable nature of how CSS resolves them.
